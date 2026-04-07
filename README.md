@@ -4,7 +4,8 @@ CodeFix is a developer-grade AI coding assistant that lives in your terminal. Un
 
 Powered by **GLM 5.1**, CodeFix excels at long-range reasoning and precise tool utilization, making it an essential companion for modern software engineering.
 
-Demo Vedio Link：https://youtu.be/Hj-fe3Fcx5s
+# Demo Vedio Link：https://youtu.be/Hj-fe3Fcx5s
+
 ![924e1305af1b0085dccd0136e25917b8-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9bf3b96a-13e3-4241-8eb8-b8c0eba1ad09)
 
 ---
