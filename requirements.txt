@@ -1,0 +1,6 @@
+typer
+rich
+prompt_toolkit
+openai
+anthropic
+python-dotenv
