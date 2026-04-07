@@ -1,12 +1,12 @@
-# ProAct Agent: The Autonomous Developer for Your Terminal
+CodeFix Agent: The Autonomous Developer for Your Terminal
 
-ProAct is a developer-grade AI coding assistant that lives in your terminal. Unlike simple chat bots, ProAct **reads** your codebase, **plans** complex modifications, **writes** code to disk, **runs** shell commands, and **autonomously debugs** issues until they are resolved.
+CodeFix is a developer-grade AI coding assistant that lives in your terminal. Unlike simple chat bots, CodeFix **reads** your codebase, **plans** complex modifications, **writes** code to disk, **runs** shell commands, and **autonomously debugs** issues until they are resolved.
 
-Powered by **GLM 5.1**, ProAct excels at long-range reasoning and precise tool utilization, making it an essential companion for modern software engineering.
+Powered by **GLM 5.1**, CodeFix excels at long-range reasoning and precise tool utilization, making it an essential companion for modern software engineering.
 
 ---
 
-## 🚀 See ProAct in Action
+## 🚀 See CodeFix in Action
 > **Scenario**: Fixing a crashing GUI game with zero manual code interventions.
 
 1. **Observe**: The user runs the game; it crashes.
@@ -120,4 +120,4 @@ python3 -m cli.main
 ---
 
 ## 📄 License
-MIT © 2026 ProAct Team
+© 2026 CodeFix Team
