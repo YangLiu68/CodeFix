@@ -7,7 +7,7 @@ Powered by **GLM 5.1**, CodeFix excels at long-range reasoning and precise tool 
 Demo Vedio Link：https://youtu.be/Hj-fe3Fcx5s
 ---
 
-## 🚀 See CodeFix in Action
+##  See CodeFix in Action
 > **Scenario**: Fixing a crashing GUI game with zero manual code interventions.
 
 1. **Observe**: The user runs the game; it crashes.
@@ -23,7 +23,7 @@ Demo Vedio Link：https://youtu.be/Hj-fe3Fcx5s
 
 ---
 
-## 🧠 Why GLM 5.1?
+##  Why GLM 5.1?
 
 ProAct is specifically tuned to leverage the **GLM 5.1** architecture for:
 - **Hierarchical Planning**: Breaking down high-level requests (e.g., "Add an auth layer") into discrete file-editing and terminal-testing steps.
@@ -32,7 +32,7 @@ ProAct is specifically tuned to leverage the **GLM 5.1** architecture for:
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```mermaid
 graph TD
@@ -64,7 +64,7 @@ graph TD
 
 ---
 
-## 🛠️ Real-World Use Cases
+##  Real-World Use Cases
 
 **Who is this for?**
 - **Feature Prototypers**: Rapidly iterate on functionality without leaving the terminal.
@@ -76,7 +76,7 @@ It bridges the gap between "AI chat" and "AI work." Instead of copy-pasting code
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 - **`cli/`**: Rich terminal interface with streaming output.
 - **`agent/`**: Core controller orchestrating GLM 5.1 and the tool registry.
@@ -86,7 +86,7 @@ It bridges the gap between "AI chat" and "AI work." Instead of copy-pasting code
 
 ---
 
-## 🏁 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 - Python 3.10+
@@ -120,5 +120,5 @@ python3 -m cli.main
 
 ---
 
-## 📄 License
+##  License
 © 2026 CodeFix Team
